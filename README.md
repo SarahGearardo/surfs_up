@@ -4,7 +4,9 @@
 The purpose of this analysis was to generate weather data on the island of Oahu in Hawaii. We want to open a surf and shake shop with an investor, W. Avy, however, their first surf shop they opened had to go out of business due to inclimate weather in the area. If we can determine that the temprature is up and the precipitation levels are down, he is more likely to back us in our venture.<br>
 
 ## Results<br>
-<br>
+* While the mean temprature only varies between June and December by four degrees (75 in June vs. 71 in December), the minimum temprature varies by eight degrees. In June, the minimum temprature is 64, while in December, it's 56.<br>
+* The max temprature only varies by one degree. 84 in June versus 83 in December.<br>
+* Seventy-Five percent of days don't get cooler than 77 for June and 74 for December. That is a pretty close.
 
 ## Summary<br>
 By looking at temprature data in June and in December, we can see where the tempratures are at the beginning of summer and the start of winter. In June, the temprature is starting to warm up, but the mean temprature is only a few degrees off from what it is in December. The minimum temprature varies by ten degrees, which is a lot, especially when you are by the water. Due to this, it may be wise to make our hours shorter in December as people will not be wanting ice cream if the temprature dips. <br>

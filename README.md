@@ -11,7 +11,7 @@ The purpose of this analysis was to generate weather data on the island of Oahu 
 ![June](https://user-images.githubusercontent.com/94804527/164592258-ab6c2138-24f6-48d5-a11c-6eb42ad67202.png)<br>
 Here are the results recieved for June tempratures<br>
 
-![December](https://user-images.githubusercontent.com/94804527/164592311-868ba0b0-748b-4e3b-b633-a72a8329aa87.png)
+![December](https://user-images.githubusercontent.com/94804527/164592311-868ba0b0-748b-4e3b-b633-a72a8329aa87.png)<br>
 Here are the results received from December tempratures<br>
 
 ## Summary<br>
